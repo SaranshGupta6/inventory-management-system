@@ -7,7 +7,6 @@ Welcome to the Inventory Management System! This system is built using React and
 - [Usage](#usage)
   - [Interacting with the Website](#interacting-with-the-website)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## Setup
@@ -15,7 +14,7 @@ To run this application locally, you'll need to follow these steps:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/your-username/inventory-management-system.git
+   git clone https://github.com/SaranshGupta6/inventory-management-system.git
    ```
    
 2. **Navigate to the Project Directory**:
@@ -40,23 +39,21 @@ This command will start the development server, and you can access the applicati
 
 ### Interacting with the Website
 
-Upon opening the application, you will be greeted with the dashboard displaying the list of inventory items. Here's how you can interact with the website:
+Upon opening the application, you will be greeted with the dashboard displaying the following sections:
 
-- **View Inventory Items**: Scroll through the list of existing inventory items to get an overview of what's currently in stock.
+- **Home**: This section provides an overview of the inventory management system and any announcements or important information.
   
-- **Add New Item**: Click on the "Add New Item" button to add a new inventory item. You'll be presented with a form where you can input details such as item name, description, quantity, and price. Fill out the required details and click "Save" to add the item to the inventory.
+- **Inventory**: Navigate to the "Inventory" section to view and manage inventory items. Scroll through the list of existing inventory items to get an overview of what's currently in stock. You can add, update, or delete inventory items as needed.
 
-- **Update Item**: To modify an existing inventory item, click on the edit icon next to the item you want to update. This will open a form pre-populated with the item's current details. Make the necessary changes and click "Save" to update the item.
+- **Order**: In the "Order" section, you can view and manage orders placed for inventory items. You can create new orders, view details of existing orders, and update or cancel orders as necessary.
 
-- **Delete Item**: If you need to remove an item from the inventory, simply click on the delete icon next to the item you wish to delete. Confirm the action, and the item will be permanently removed from the system.
+- **Customer**: The "Customer" section allows you to manage customer information and interactions. You can view a list of customers, add new customers, and update or delete existing customer records.
+
+Each section provides specific functionality tailored to the respective aspect of inventory management. Click on the corresponding section to access its features and perform the desired actions.
 
 ## Contributing
 
 Contributions to this project are highly encouraged! If you encounter any issues or have suggestions for improvements, please don't hesitate to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per your requirements.
 
 ## Acknowledgments
 
