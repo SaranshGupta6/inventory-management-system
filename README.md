@@ -77,7 +77,8 @@ This project is set up with Vite, providing a minimal setup to get React working
 - [React Apex Charts](https://apexcharts.com/docs/react-charts/)
 - [React Material Icons](https://material-ui.com/components/material-icons/)
 
-```
+## Screenshot of the Website
+
   - ## Home
   ![click me](https://github.com/IMDADMI/inventory-management-system/blob/2-home-part/src/assets/Home.PNG?raw=true)
   - ## Inventory
